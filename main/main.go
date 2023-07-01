@@ -1,8 +1,10 @@
 package main
 
-import "gophercises/urlshort"
+import "gophercises/adventure"
 
+// import "gophercises/urlshort"
 func main() {
 	// quiz.QuizMain()
-	urlshort.URLMain()
+	// urlshort.URLMain()
+	adventure.AdventureMain()
 }
